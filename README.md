@@ -1,35 +1,32 @@
 <h1>👋 ¡Hola! </h1>
 Soy un profesional en constante aprendizaje, con una sólida base en ofimática y productividad, y una clara orientación hacia el análisis de datos y la programación. Mi experiencia en diversas formaciones me ha equipado con habilidades técnicas y blandas esenciales para enfrentar los desafíos del mundo digital.
 
-🚀 Habilidades y Tecnologías
-📊 Ofimática y Productividad
+<h2>🚀 Habilidades y Tecnologías</h2>
+<h3>📊 Ofimática y Productividad</h3>
 Dominio Office: Word y Excel para el trabajo (básico e intermedio), Power Point (básico e intermedio).
 
-Ofimática Empresarial.
-
-🖥️ Desarrollo de Software y Programación
+<h3>🖥️ Desarrollo de Software y Programación</h3>
 Python: Conocimientos en estructura de datos, programación orientada a objetos, pruebas unitarias, manejo de excepciones y consumo de APIs.
 
-Bases de Datos: Fundamentos de SQL.
+<h3>🗃️Bases de Datos</h3>
+Fundamentos de SQL.
 
-Control de Versiones: Experiencia con Git y GitHub.
+<h3>🛠️Control de Versiones</h3>
+Experiencia con Git y GitHub.
 
-📈 Análisis de Datos
+<h3>📈 Análisis de Datos</h3>
 Business Intelligence: Introducción a Power BI y análisis de datos con la herramienta.
 
-Ciencia de Datos: Primeros pasos como Data Scientist.
-
-🌱 Aprendizaje Continuo y Competencias
+<h3>🌱 Aprendizaje Continuo y Competencias</h3>
 Habilidades Blandas: Adaptación al cambio.
 
-Competencias Digitales: Formación en ABC Digital.
+<h3>Entornos de Desarrollo</h3>
+Configuración de Python y uso de Visual Studio Code con GitHub Copilot.
 
-Entornos de Desarrollo: Configuración de Python y uso de Visual Studio Code con GitHub Copilot.
-
-🎯 Objetivo Profesional
+<h2>🎯 Objetivo Profesional</h2>
 Busco activamente oportunidades que me permitan aplicar mis conocimientos en análisis de datos, programación y ofimática para mejorar procesos y generar valor. Estoy comprometido con el aprendizaje continuo y listo para contribuir en un equipo que valore la innovación y la eficiencia.
 
-📧 Contacto
+<h2>📧 Contacto</h2>
 Correo Electrónico: carlos.1710.ml@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/carlos-eduardo-medina-lezama-2bba4b222/
