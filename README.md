@@ -1,4 +1,5 @@
-👋 ¡Hola! Soy un profesional en constante aprendizaje, con una sólida base en ofimática y productividad, y una clara orientación hacia el análisis de datos y la programación. Mi experiencia en diversas formaciones me ha equipado con habilidades técnicas y blandas esenciales para enfrentar los desafíos del mundo digital.
+<h1>👋 ¡Hola! </h1>
+Soy un profesional en constante aprendizaje, con una sólida base en ofimática y productividad, y una clara orientación hacia el análisis de datos y la programación. Mi experiencia en diversas formaciones me ha equipado con habilidades técnicas y blandas esenciales para enfrentar los desafíos del mundo digital.
 
 🚀 Habilidades y Tecnologías
 📊 Ofimática y Productividad
